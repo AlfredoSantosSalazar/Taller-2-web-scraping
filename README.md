@@ -4,7 +4,7 @@
 
 ### Alfredo Santos Salazar - asantossal@unbosque.edu.co
 
-Workshop delivery video tutorial https://youtu.be/7ZwRiHpD65Q
+Workshop delivery video tutorial https://youtu.be/obaBhur2mLI
 
 Alt text
 
