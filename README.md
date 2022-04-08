@@ -31,6 +31,12 @@ Step 4: Download and install Geckodriver
 
 ![Captura de pantalla (244)](https://user-images.githubusercontent.com/70605764/162359041-8d3575f1-2afe-477d-841c-704f40fbaa6a.png)
 
+![Captura de pantalla (240)](https://user-images.githubusercontent.com/70605764/162372274-761944bf-c96c-4d89-83b3-9c8a9ce78494.png)
+
+![Captura de pantalla (242)](https://user-images.githubusercontent.com/70605764/162372296-ee7a58cb-01d8-4794-b0b9-2a948dd37533.png)
+
+
+
 ## Step 5: Workshop 2 Practice Screenshot part 2
 
 ![Captura de pantalla (245)](https://user-images.githubusercontent.com/70605764/162359106-f3fa1660-18fc-406e-b7c9-d22bf36fb448.png)
